@@ -1,0 +1,17 @@
+
+body{background-color: lightgoldenrodyellow;}
+h1,h3{
+    color: #10c756;
+}
+h1:hover{
+    background-color: lightseagreen;
+}
+
+
+hr{
+    border-style: dotted none none none;
+    border-width: 3px;
+    border-color: gray;
+    height: 0px;
+    width:5%;
+}
